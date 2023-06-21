@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'app',
+    name: 'strapi',
     script: 'npm',
     args: 'start',
     env_production: {
